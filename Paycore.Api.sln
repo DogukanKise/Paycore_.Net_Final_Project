@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycore.Api", "Paycore.Api\Paycore.Api.csproj", "{728D9817-FD44-42E2-9DF0-55EE5649B18A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycore.Data", "Paycore.Data\Paycore.Data.csproj", "{666DFD05-C18A-4E61-B70F-F45B0F9B5F07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycore.Dto", "Paycore.Dto\Paycore.Dto.csproj", "{F9A1C4B5-F92B-4998-82EB-B3D745B1B120}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycore.Base", "Paycore.Base\Paycore.Base.csproj", "{7B59B8EA-E598-4EB7-A1FA-70F468970906}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycore.Service", "Paycore.Service\Paycore.Service.csproj", "{6DB1918F-D2A4-44A5-9104-887E0E7A4880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycore.Test", "Paycore.Test\Paycore.Test.csproj", "{C097E430-146C-4546-A541-6E82BD594D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728D9817-FD44-42E2-9DF0-55EE5649B18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728D9817-FD44-42E2-9DF0-55EE5649B18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728D9817-FD44-42E2-9DF0-55EE5649B18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728D9817-FD44-42E2-9DF0-55EE5649B18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666DFD05-C18A-4E61-B70F-F45B0F9B5F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666DFD05-C18A-4E61-B70F-F45B0F9B5F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666DFD05-C18A-4E61-B70F-F45B0F9B5F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666DFD05-C18A-4E61-B70F-F45B0F9B5F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A1C4B5-F92B-4998-82EB-B3D745B1B120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A1C4B5-F92B-4998-82EB-B3D745B1B120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A1C4B5-F92B-4998-82EB-B3D745B1B120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A1C4B5-F92B-4998-82EB-B3D745B1B120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B59B8EA-E598-4EB7-A1FA-70F468970906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B59B8EA-E598-4EB7-A1FA-70F468970906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B59B8EA-E598-4EB7-A1FA-70F468970906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B59B8EA-E598-4EB7-A1FA-70F468970906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB1918F-D2A4-44A5-9104-887E0E7A4880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB1918F-D2A4-44A5-9104-887E0E7A4880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB1918F-D2A4-44A5-9104-887E0E7A4880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB1918F-D2A4-44A5-9104-887E0E7A4880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C097E430-146C-4546-A541-6E82BD594D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C097E430-146C-4546-A541-6E82BD594D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C097E430-146C-4546-A541-6E82BD594D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C097E430-146C-4546-A541-6E82BD594D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2668F886-9984-4774-A1FA-F972A72EE5F4}
+	EndGlobalSection
+EndGlobal

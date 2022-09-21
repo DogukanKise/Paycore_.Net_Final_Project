@@ -1,0 +1,12 @@
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\bin\Debug\net5.0\Paycore.Dto.deps.json
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\bin\Debug\net5.0\Paycore.Dto.dll
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\bin\Debug\net5.0\Paycore.Dto.pdb
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.csproj.AssemblyReference.cache
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.AssemblyInfoInputs.cache
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.AssemblyInfo.cs
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.csproj.CoreCompileInputs.cache
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.dll
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\refint\Paycore.Dto.dll
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\Paycore.Dto.pdb
+C:\Users\dogu1\Desktop\Paycore_Final_Project\Paycore.Api\Paycore.Dto\obj\Debug\net5.0\ref\Paycore.Dto.dll

@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Service\\Paycore.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Base\\Paycore.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Base\\Paycore.Base.csproj",
+        "projectName": "Paycore.Base",
+        "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Base\\Paycore.Base.csproj",
+        "packagesPath": "C:\\Users\\dogu1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dogu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj": {
+                "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Data\\Paycore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Data\\Paycore.Data.csproj",
+        "projectName": "Paycore.Data",
+        "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Data\\Paycore.Data.csproj",
+        "packagesPath": "C:\\Users\\dogu1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dogu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.3.12, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj",
+        "projectName": "Paycore.Dto",
+        "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj",
+        "packagesPath": "C:\\Users\\dogu1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dogu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Service\\Paycore.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Service\\Paycore.Service.csproj",
+        "projectName": "Paycore.Service",
+        "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Service\\Paycore.Service.csproj",
+        "packagesPath": "C:\\Users\\dogu1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dogu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Base\\Paycore.Base.csproj": {
+                "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Base\\Paycore.Base.csproj"
+              },
+              "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Data\\Paycore.Data.csproj": {
+                "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Data\\Paycore.Data.csproj"
+              },
+              "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj": {
+                "projectPath": "C:\\Users\\dogu1\\Desktop\\Paycore_Final_Project\\Paycore.Api\\Paycore.Dto\\Paycore.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.3.13, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
