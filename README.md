@@ -180,11 +180,19 @@
                 <img src="https://i.hizliresim.com/9eg0yo7.png" alt="signup" style="max-width: 100%;">
             </a>
         </p>
-         <li>
+    <li>
         <h3>Accept an offer</h3>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/t2datxz.png" alt="signup" style="max-width: 100%;">
+            </a>
+        </p>
+    </li>
+    <li>
+        <h3>E-Mail Send</h3>
+        <p dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="">
+                <img src="https://i.hizliresim.com/knsjfvp.png" alt="signup" style="max-width: 100%;">
             </a>
         </p>
     </li>
